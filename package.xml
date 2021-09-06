@@ -5,7 +5,7 @@
         <packagename language="de"><![CDATA[Lottie-Player]]></packagename>
         <packagedescription><![CDATA[Player for Lottie Files.]]></packagedescription>
         <packagedescription language="de"><![CDATA[Player für Lottie Dateien.]]></packagedescription>
-        <version>1.0.0</version>
+        <version>1.1.4</version>
         <date>2021-09-06</date>
     </packageinformation>
 
