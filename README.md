@@ -3,7 +3,7 @@
 Verwendung:
 ```JavaScript
 <script data-relocate="true">define.amd = undefined;</script>
-{js application='wcf' file='3rdParty/lottie-player' hasTiny=false}
+{js application='wcf' file='Hanashi/lottie-player' hasTiny=false}
 <script data-relocate="true">define.amd = __require_define_amd;</script>
 ```
 
